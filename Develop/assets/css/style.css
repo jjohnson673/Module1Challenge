@@ -136,14 +136,3 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-/* determines the font and padding for the footer */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-/* determines the sizing for the footer on h3 */
-.footer h3 {
-    font-size: 20px;
-}

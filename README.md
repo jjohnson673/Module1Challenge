@@ -15,7 +15,7 @@ N/A
 Each section within the webpage contains the various ways in which Horiseon helps other brands whether by SEO, Online Repuation Management, Social Media Management, along with the various benefits by using their company. When the user clicks on any of the clickable links at the top right of the page, it will direct them to one of the corresponding containers shown below.
 
 
-![Horiseon Main Segments](./Develop/assets/images/Horiseon_image.png)
+![Horiseon Main Segments](./assets/images/Horiseon_image.png)
 
 
 ## Credits
